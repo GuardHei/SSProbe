@@ -1,0 +1,222 @@
+# Blender MTL File: 'None'
+# Material Count: 17
+
+newmtl DanmenOpLawn01_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd OpLow01_AI_alb.png
+map_d OpLow01_AI_alb.png
+
+newmtl DanmenOpStone03_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpStoneDanmen00_AI_nrm.png
+map_Kd OpStone03_AI_alb.png
+map_d OpStone03_AI_alb.png
+
+newmtl DanmenSoilLayer00_S
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 SoilLayer00_AI_nrm.png
+map_Kd SoilLayer00_AI_alb.png
+map_d SoilLayer00_AI_alb.png
+
+newmtl Danmen_Stone00_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpStoneDanmen00_AI_nrm.png
+map_Kd OpStone00_AI_alb.png
+map_d OpStone00_AI_alb.png
+
+newmtl Grass00_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 Grass00_AI_nrm.png
+map_Kd Grass00_AI_alb.png
+map_d Grass00_AI_alb.png
+
+newmtl Lawn01_S
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 Lawn00_S_nrm.png
+map_Kd Lawn00_S_alb.png
+map_d Lawn00_S_alb.png
+
+newmtl OpGrass_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpGrass_AI_nrm.png
+map_Kd OpGrass_AI_alb.png
+map_d OpGrass_AI_alb.png
+
+newmtl OpLawn01_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpLow01_AI_nrm.png
+map_Kd OpLow01_AI_alb.png
+map_d OpLow01_AI_alb.png
+
+newmtl OpLawn02_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpLow02_AI_nrm.png
+map_Kd OpLow02_AI_alb.png
+map_d OpLow02_AI_alb.png
+
+newmtl OpPlant00_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpPlant00_AI_nrm.png
+map_Kd OpPlant00_AI_alb.png
+map_d OpPlant00_AI_alb.png
+
+newmtl OpPlant01_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpPlant01_AI_nrm.png
+map_Kd OpPlant01_AI_alb.png
+map_d OpPlant01_AI_alb.png
+
+newmtl OpPlant02_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpPlant02_AI_nrm.png
+map_Kd OpPlant02_AI_alb.png
+map_d OpPlant02_AI_alb.png
+
+newmtl OpStone00_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpStone00_AI_nrm.png
+map_Kd OpStone00_AI_alb.png
+map_d OpStone00_AI_alb.png
+
+newmtl OpStone01_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpStone00_AI_nrm.png
+map_Kd OpStone01_AI_alb.png
+map_d OpStone01_AI_alb.png
+
+newmtl OpStone03_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpStone03_AI_nrm.png
+map_Kd OpStone03_AI_alb.png
+map_d OpStone03_AI_alb.png
+
+newmtl OpStone04_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpStone04_AI_nrm.png
+map_Kd OpStone04_AI_alb.png
+map_d OpStone04_AI_alb.png
+
+newmtl OpStone05_AI
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump -bm 0.350042 OpStone05_AI_nrm.png
+map_Kd OpStone05_AI_alb.png
+map_d OpStone05_AI_alb.png
